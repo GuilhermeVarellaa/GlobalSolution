@@ -1,0 +1,2 @@
+# GlobalSolution
+Projeto MealMap
